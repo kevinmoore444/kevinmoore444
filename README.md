@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, my name is Kevin</h1>
 <h3 align="center">I'm a full-stack software developer with an array of experiences in both fast-paced and highly analytical environments</h3>
 
-- 🔭 I’m currently working on [pacificcoasttrailruns.com](https://www.pacificcoasttrailruns.com/)
+- 🔭 I’m currently the webmaster for [pacificcoasttrailruns.com](https://www.pacificcoasttrailruns.com/)
 
 - 🌱 I’m currently learning **Java, React, Git, and Github**
 
-- 📫 How to reach me **kevinmoore444@gmail.com**
+- 📫 How to reach me: **kevinmoore444@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/0B51jdJWO46pjUUhzNHhKc19ya1FCNnBaZm1STXlFdVJvUnJZ/edit?usp=sharing&ouid=113692846730634022494&resourcekey=0-p0BzDcBInt6mceoBcGG1VQ&rtpof=true&sd=true](https://docs.google.com/document/d/0B51jdJWO46pjUUhzNHhKc19ya1FCNnBaZm1STXlFdVJvUnJZ/edit?usp=sharing&ouid=113692846730634022494&resourcekey=0-p0BzDcBInt6mceoBcGG1VQ&rtpof=true&sd=true)
+- 📄 <a href="https://docs.google.com/document/d/0B51jdJWO46pjUUhzNHhKc19ya1FCNnBaZm1STXlFdVJvUnJZ/edit?usp=sharing&ouid=113692846730634022494&resourcekey=0-p0BzDcBInt6mceoBcGG1VQ&rtpof=true&sd=true" >Here is a link to my Resume</a>
 
 - ⚡ Fun fact **I've hiked across Nepal, ran across Spain and ridden my bike across both North America and Europe!**
 
