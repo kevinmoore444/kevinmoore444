@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **kevinmoore444@gmail.com**
 
-- 📄 <a href="https://docs.google.com/document/d/0B51jdJWO46pjUUhzNHhKc19ya1FCNnBaZm1STXlFdVJvUnJZ/edit?usp=sharing&ouid=113692846730634022494&resourcekey=0-p0BzDcBInt6mceoBcGG1VQ&rtpof=true&sd=true" >Here is a link to my Resume</a>
+- 📄 <a href="https://docs.google.com/document/d/0B51jdJWO46pjUUhzNHhKc19ya1FCNnBaZm1STXlFdVJvUnJZ/edit?usp=sharing&ouid=113692846730634022494&resourcekey=0-p0BzDcBInt6mceoBcGG1VQ&rtpof=true&sd=true" >Here </a> is my resume.
 
 - ⚡ Fun fact **I've hiked across Nepal, ran across Spain and ridden my bike across both North America and Europe!**
 
