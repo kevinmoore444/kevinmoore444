@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, my name is Kevin</h1>
 <h3 align="center">I'm a full-stack software developer with an array of experiences in both fast-paced and highly analytical environments</h3>
 
--👨‍🎓 I earned a full-stack developer certificate from Coding Dojo, with **distinction in JAVA and M.E.R.N.** I earned my Bachelors degree in classical languages and literature from St. Olaf college. 
+- 👨‍🎓 I earned a full-stack developer certificate from Coding Dojo, with **distinction in JAVA and M.E.R.N.** I earned my Bachelors degree in classical languages and literature from St. Olaf college. 
 
--💻 I've spent **7 years working at Bay Area tech startups** as a healthcare revenue-cycle analyst, **5 years as a high school coach** and **one year as a full time middle school teacher**.
+- 💻 I've spent **7 years working at Bay Area tech startups** as a healthcare revenue-cycle analyst, **5 years as a high school coach** and **one year as a full time middle school teacher**.
 
 - 📲 I’m currently the webmaster for [pacificcoasttrailruns.com](https://www.pacificcoasttrailruns.com/)
 
