@@ -11,7 +11,7 @@
 
 - 📫 You can reach me at: **kevinmoore444@gmail.com**
 
-- 📄 <a href="https://docs.google.com/document/d/0B51jdJWO46pjUUhzNHhKc19ya1FCNnBaZm1STXlFdVJvUnJZ/edit?usp=sharing&ouid=113692846730634022494&resourcekey=0-p0BzDcBInt6mceoBcGG1VQ&rtpof=true&sd=true" >Here </a> is a link to my resume.
+- 📄 <a href="https://docs.google.com/document/d/0B51jdJWO46pjUUhzNHhKc19ya1FCNnBaZm1STXlFdVJvUnJZ/edit?usp=sharing&ouid=113692846730634022494&resourcekey=0-p0BzDcBInt6mceoBcGG1VQ&rtpof=true&sd=true" >Download my Resume </a>
 
 - ⚡ Fun fact: Last year I took a 9 month sabbatical, traveling to **25 different countries!** So many awesome photos!
 
