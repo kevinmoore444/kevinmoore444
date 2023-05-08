@@ -1,3 +1,5 @@
+![313918945_10228963161045491_4177426563601610784_n](https://user-images.githubusercontent.com/116651957/236932437-88d42232-d4e6-4929-8168-862223d2c5ce.jpg)
+
 <h1 align="center">Hello 👋, my name is Kevin</h1>
 <h3 align="center">I'm a full-stack software developer with an array of experiences in both fast-paced and highly analytical environments</h3>
 
