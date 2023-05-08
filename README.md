@@ -1,4 +1,4 @@
-<img href="https://user-images.githubusercontent.com/116651957/236932437-88d42232-d4e6-4929-8168-862223d2c5ce.jpg"/>
+![image-1280x640](https://user-images.githubusercontent.com/116651957/236933115-50fb2f2e-2022-4fa0-aedf-08079109297c.jpg)
 
 <h1 align="center">Hello 👋, my name is Kevin</h1>
 <h3 align="center">I'm a full-stack software developer with an array of experiences in both fast-paced and highly analytical environments</h3>
