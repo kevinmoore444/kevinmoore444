@@ -5,7 +5,7 @@
 
 - 💻 I've spent **7 years working at Bay Area tech startups** as a healthcare revenue-cycle analyst. 
 
--  I enjoy teaching and working with kids, having spent **5 years as a high school coach** and **one year as a full time middle school teacher**.
+-  I enjoy teaching and working with kids, I now have **5 years experience as a high school coach** and **one year as a full time middle school teacher**.
 
 - 📲 I’m currently the webmaster for [pacificcoasttrailruns.com](https://www.pacificcoasttrailruns.com/)
 
