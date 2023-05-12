@@ -11,7 +11,7 @@
 
 - 🌱 I’m studying **Java, React, and Git**
 
-- 📄 <a href="https://docs.google.com/document/d/0B51jdJWO46pjUUhzNHhKc19ya1FCNnBaZm1STXlFdVJvUnJZ/edit?usp=sharing&ouid=113692846730634022494&resourcekey=0-p0BzDcBInt6mceoBcGG1VQ&rtpof=true&sd=true" >Download my Resume </a>
+- 📄 <a href="https://docs.google.com/document/d/0B51jdJWO46pjUUhzNHhKc19ya1FCNnBaZm1STXlFdVJvUnJZ/edit?usp=sharing&ouid=113692846730634022494&resourcekey=0-p0BzDcBInt6mceoBcGG1VQ&rtpof=true&sd=true" >Here is my Resume </a>
 
 - ⚡ Fun fact: I spend all my spare time outdoors: **trekking through the mountains, road biking, and competitive ultra-marathoning**. 
 
