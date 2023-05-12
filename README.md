@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, my name is Kevin</h1>
 <h3 align="center">I'm a full-stack software developer with an array of experiences in both fast-paced and highly analytical environments</h3>
 
-- 👨‍🎓 I earned a full-stack developer certificate from Coding Dojo, with **distinction in JAVA and M.E.R.N.** (mongo, express, react, node) I earned my Bachelor of Arts  in Classical Languages and Literature from St. Olaf college. 
+- 👨‍🎓 I earned a full-stack developer certificate from Coding Dojo, with **distinction in JAVA and M.E.R.N.** (mongo, express, react, node) I earned my Bachelor of Arts  in Classical Languages and Literature at St. Olaf college. 
 
 - 💻 I've spent **7 years working at Bay Area tech startups** as a healthcare revenue-cycle analyst. 
 
