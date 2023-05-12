@@ -27,5 +27,4 @@
 <a href="https://linkedin.com/in/kevinmoore444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevinmoore444" height="30" width="40" /></a>
 <a href="https://fb.com/kevin.moore.5648137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kevin.moore.5648137" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kevinmoore444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kevinmoore444" height="30" width="40" /></a>
-<a href="https://discord.gg/kevinmoore#8433" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kevinmoore#8433" height="30" width="40" /></a>
 </p>
