@@ -1,17 +1,15 @@
 <h1 align="center">Hello 👋, my name is Kevin</h1>
-<h3 align="center">I'm a full-stack software developer with an array of experiences in both fast-paced and highly analytical environments</h3>
+<h3 align="center">I'm a full-stack Java developer with an array of experiences in both fast-paced and highly analytical environments</h3>
 
-- 👨‍🎓 I earned a full-stack developer certificate from Coding Dojo, with **distinction in JAVA and M.E.R.N.** (mongo, express, react, node) I earned my Bachelor of Arts  in Classical Languages and Literature at St. Olaf college. 
+- 💻 I work as a software developer for Dev10, a highly selective paid training program which contracts me with its clients.  
 
-- 💻 I've spent **7 years working at Bay Area tech startups** as a healthcare revenue-cycle analyst. 
+- 👨‍🎓 I spend my spare time as a student at **Western Governor's University**, pursuing a **B.A. in computer science**. In 2023 I earned a full-stack developer certificate from Coding Dojo, with distinction in JAVA and M.E.R.N. (mongo, express, react, node). I earned my first B.A. in Classical Languages and Literature at St. Olaf college. 
 
 -  I enjoy teaching and working with kids, I now have **5 years experience as a high school coach** and **one year as a full time middle school teacher**.
 
 - 📲 I’m currently the webmaster for [pacificcoasttrailruns.com](https://www.pacificcoasttrailruns.com/)
 
-- 🌱 I’m studying **Java, React, and Git**
-
-- 📄 <a href="https://docs.google.com/document/d/0B51jdJWO46pjUUhzNHhKc19ya1FCNnBaZm1STXlFdVJvUnJZ/edit?usp=sharing&ouid=113692846730634022494&resourcekey=0-p0BzDcBInt6mceoBcGG1VQ&rtpof=true&sd=true" >Here is my Resume </a>
+- 📄 <a href="[https://docs.google.com/document/d/0B51jdJWO46pjUUhzNHhKc19ya1FCNnBaZm1STXlFdVJvUnJZ/edit?usp=sharing&ouid=113692846730634022494&resourcekey=0-p0BzDcBInt6mceoBcGG1VQ&rtpof=true&sd=true](https://docs.google.com/document/d/0B51jdJWO46pjUUhzNHhKc19ya1FCNnBaZm1STXlFdVJvUnJZ/edit?usp=sharing&ouid=113692846730634022494&resourcekey=0-p0BzDcBInt6mceoBcGG1VQ&rtpof=true&sd=true)" >Here is my Resume </a>
 
 - ⚡ Fun fact: I spend all my spare time outdoors: **trekking through the mountains, road biking, and competitive ultra-marathoning**. 
 
