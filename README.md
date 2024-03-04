@@ -3,9 +3,11 @@
 
 - 💻 I work as a software developer for Dev10, a highly selective paid training program which contracts me with its clients.  
 
-- 👨‍🎓 I spend my spare time as a student at **Western Governor's University**, pursuing a **B.A. in computer science**. In 2023 I earned a full-stack developer certificate from Coding Dojo, with distinction in JAVA and M.E.R.N. (mongo, express, react, node). I earned my first B.A. in Classical Languages and Literature at St. Olaf college. 
+- 👨‍🎓 I spend my spare time as a student at **Western Governor's University**, pursuing a **B.A. in computer science**.  I earned my first B.A. in Classical Languages and Literature at St. Olaf college. 
 
--  I enjoy teaching and working with kids, I now have **5 years experience as a high school coach** and **one year as a full time middle school teacher**.
+- 📜 In 2023 I earned a full-stack developer certificate from Coding Dojo, with distinction in JAVA and M.E.R.N. (mongo, express, react, node).
+
+- 🧑‍🏫 I enjoy teaching and working with kids, I now have **5 years experience as a high school coach** and **one year as a full time middle school teacher**.
 
 - 📲 I’m currently the webmaster for [pacificcoasttrailruns.com](https://www.pacificcoasttrailruns.com/)
 
