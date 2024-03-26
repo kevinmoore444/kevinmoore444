@@ -11,7 +11,7 @@
 
 - 📲 I’m currently the webmaster for [pacificcoasttrailruns.com](https://www.pacificcoasttrailruns.com/)
 
-- 📄 [Here is my resume]([https://example.com](https://docs.google.com/document/d/0B51jdJWO46pjUUhzNHhKc19ya1FCNnBaZm1STXlFdVJvUnJZ/edit?usp=sharing&ouid=113692846730634022494&resourcekey=0-p0BzDcBInt6mceoBcGG1VQ&rtpof=true&sd=true))
+- 📄 [Here is my resume](https://docs.google.com/document/d/0B51jdJWO46pjUUhzNHhKc19ya1FCNnBaZm1STXlFdVJvUnJZ/edit?usp=sharing&ouid=113692846730634022494&resourcekey=0-p0BzDcBInt6mceoBcGG1VQ&rtpof=true&sd=true)
 
 - ⚡ Fun fact: I spend all my spare time outdoors: **trekking through the mountains, road biking, and competitive ultra-marathoning**. 
 
