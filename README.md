@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, my name is Kevin</h1>
 <h3 align="center">I'm a full-stack Java developer with an array of experiences in both fast-paced and highly analytical environments</h3>
 
-- 💻 I work as a software developer for Dev10, a highly selective paid training program. We're building applications using Java, SQL, and React and preparing for work as a software engineer with one of Dev10's clients. 
+- 💻 I work as a software developer for Dev10, a highly selective paid training program. I'm building applications using Java, SQL, and React and preparing for work as a software engineer with one of Dev10's clients. 
 
 - 👨‍🎓 I spend my evenings as a student at **Western Governor's University**, pursuing a **B.A. in computer science**.  I earned my first B.A. in Classical Languages and Literature at St. Olaf college. 
 
